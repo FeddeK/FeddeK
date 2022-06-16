@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeddeK
-- 👀 I recently moved from the Netherlands to Denver and I am interested in improving my coding skills. 
-- 🌱 These are just some random projects I've been working on.
+- 👀 I recently moved from the Netherlands to Denver! :)
+- 🌱 These are just some random projects I've been working on for fun.
 
 -> [Sell the dip and buy our NFTS!](https://opensea.io/collection/come-on-sheeple)
 <!---
